@@ -36,4 +36,4 @@ A simple PHP and MySQL user authentication and CRUD application developed using 
 
 ## Author
 
-Surya
+V.Surya Prakash Reddy
